@@ -1,0 +1,14 @@
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.exe
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.deps.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.runtimeconfig.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\refint\ScreenSound.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.genruntimeconfig.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound\ScreenSound\obj\Debug\net7.0\ref\ScreenSound.dll

@@ -1,0 +1,14 @@
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net7.0\PrimeiroProjetoAlura.exe
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net7.0\PrimeiroProjetoAlura.deps.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net7.0\PrimeiroProjetoAlura.runtimeconfig.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net7.0\PrimeiroProjetoAlura.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net7.0\PrimeiroProjetoAlura.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.AssemblyInfoInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.AssemblyInfo.cs
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.csproj.CoreCompileInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\refint\PrimeiroProjetoAlura.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\PrimeiroProjetoAlura.genruntimeconfig.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net7.0\ref\PrimeiroProjetoAlura.dll
