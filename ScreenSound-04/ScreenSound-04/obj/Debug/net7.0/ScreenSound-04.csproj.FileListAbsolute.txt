@@ -12,3 +12,17 @@ C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound-04\ScreenSoun
 C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.pdb
 C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.genruntimeconfig.cache
 C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ref\ScreenSound-04.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.exe
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.deps.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.runtimeconfig.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\refint\ScreenSound-04.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ref\ScreenSound-04.dll

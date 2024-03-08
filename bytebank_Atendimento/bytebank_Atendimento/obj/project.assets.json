@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\bytebank_Atendimento\\bytebank_Atendimento\\bytebank_Atendimento.csproj",
+      "projectUniqueName": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\bytebank_Atendimento\\bytebank_Atendimento\\bytebank_Atendimento.csproj",
       "projectName": "bytebank_Atendimento",
-      "projectPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\bytebank_Atendimento\\bytebank_Atendimento\\bytebank_Atendimento.csproj",
+      "projectPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\bytebank_Atendimento\\bytebank_Atendimento\\bytebank_Atendimento.csproj",
       "packagesPath": "C:\\Users\\conap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\bytebank_Atendimento\\bytebank_Atendimento\\obj\\",
+      "outputPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\bytebank_Atendimento\\bytebank_Atendimento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conap\\AppData\\Roaming\\NuGet\\NuGet.Config",

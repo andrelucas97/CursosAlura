@@ -1,0 +1,14 @@
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\bin\Debug\net7.0\bytebank_Atendimento.exe
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\bin\Debug\net7.0\bytebank_Atendimento.deps.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\bin\Debug\net7.0\bytebank_Atendimento.runtimeconfig.json
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\bin\Debug\net7.0\bytebank_Atendimento.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\bin\Debug\net7.0\bytebank_Atendimento.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.AssemblyInfoInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.AssemblyInfo.cs
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\refint\bytebank_Atendimento.dll
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.pdb
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\bytebank_Atendimento.genruntimeconfig.cache
+C:\Users\conap\OneDrive\Área de Trabalho\André\Alura\CursosAlura\bytebank_Atendimento\bytebank_Atendimento\obj\Debug\net7.0\ref\bytebank_Atendimento.dll

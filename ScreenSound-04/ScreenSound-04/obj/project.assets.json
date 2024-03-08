@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\ScreenSound-04\\ScreenSound-04\\ScreenSound-04.csproj",
+      "projectUniqueName": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\ScreenSound-04\\ScreenSound-04\\ScreenSound-04.csproj",
       "projectName": "ScreenSound-04",
-      "projectPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\ScreenSound-04\\ScreenSound-04\\ScreenSound-04.csproj",
+      "projectPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\ScreenSound-04\\ScreenSound-04\\ScreenSound-04.csproj",
       "packagesPath": "C:\\Users\\conap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\ScreenSound-04\\ScreenSound-04\\obj\\",
+      "outputPath": "C:\\Users\\conap\\OneDrive\\Área de Trabalho\\André\\Alura\\CursosAlura\\ScreenSound-04\\ScreenSound-04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conap\\AppData\\Roaming\\NuGet\\NuGet.Config",
