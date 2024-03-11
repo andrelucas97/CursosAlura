@@ -1,6 +1,6 @@
-﻿using bytebank_Atendimento.bytebank.Util;
+﻿using bytebank_Atendimento.bytebank.Atendimento;
+using bytebank_Atendimento.bytebank.Util;
 using bytebank_Atendimento.Conta;
-using System.Collections;
 
 Console.WriteLine("Boas vindas ao ByteBank, Atendimento!");
 
@@ -32,115 +32,7 @@ void TestaArrayContasCorrente()
 
 //TestaArrayContasCorrente();
 #endregion 
-
-List<ContaCorrente> _listaContas = new List<ContaCorrente>()
-{
-    new ContaCorrente(95, "123456-X") {Saldo=100},
-    new ContaCorrente(95, "951258-X") {Saldo=200},
-    new ContaCorrente(94, "987321-W") {Saldo=60}
-};
-//AtendimentoCliente();
-void AtendimentoCliente()
-{
-    char opcao = '0';
-    while (opcao != '6')
-    {
-        Console.Clear();
-        Console.WriteLine("====================================");
-        Console.WriteLine("======      Atendimento       ======");
-        Console.WriteLine("====== 1 - Cadastrar Conta    ======");
-        Console.WriteLine("====== 2 - Listar Contas      ======");
-        Console.WriteLine("====== 3 - Remover Conta      ======");
-        Console.WriteLine("====== 4 - Ordenar Contas     ======");
-        Console.WriteLine("====== 5 - Pesquisar Conta    ======");
-        Console.WriteLine("====== 6 - Sair do sistema    ======");
-        Console.WriteLine("\n\n");
-        Console.Write("Digite a opção desejada: ");
-        opcao = Console.ReadLine()[0];
-        switch (opcao)
-        {
-            case '1': CadastrarConta();
-                break;
-            case '2':
-                ListarConta();
-                break;
-            case '3':
-                CadastrarConta();
-                break;
-            case '4':
-                CadastrarConta();
-                break;
-            case '5':
-                CadastrarConta();
-                break;
-            case '6':
-                CadastrarConta();
-                break;
-            default: Console.WriteLine("Opção não implementada.");
-                break;
-        }
-    }
-}
-
-void ListarConta()
-{
-    Console.Clear();
-    Console.WriteLine("================================");
-    Console.WriteLine("===       LISTA DE CONTAS    ===");
-    Console.WriteLine("================================\n");
-
-    if (_listaContas.Count <= 0)
-    {
-        Console.WriteLine("... Não há contas cadastradas! ...");
-        Console.ReadKey();
-        return;
-    }
-
-    foreach(ContaCorrente item in _listaContas)
-    {
-        Console.WriteLine("===  Dados da Conta  ===");
-        Console.WriteLine("Número da Conta: " + item.Conta);
-        Console.WriteLine("Saldo da Conta: " + item.Saldo);
-        Console.WriteLine("Tiular da Conta: " + item.Titular.Nome);
-        Console.WriteLine("CPF do Titular: " + item.Titular.Cpf);
-        Console.WriteLine("Profissão do Titular: " + item.Titular.Profissao);
-        Console.WriteLine(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        Console.ReadKey();
-    }
-}
-
-void CadastrarConta()
-{
-    Console.Clear();
-    Console.WriteLine("================================");
-    Console.WriteLine("===    CADASTRO DE CONTAS    ===");
-    Console.WriteLine("================================\n");
-    Console.WriteLine("===  Informe dados da Conta  ===");
-    Console.Write("Número da conta: ");
-    string numeroConta = Console.ReadLine();
-
-    Console.Write("Número da Agência: ");
-    int numeroAgencia = int.Parse(Console.ReadLine());
-
-    ContaCorrente conta = new ContaCorrente(numeroAgencia, numeroConta);
-
-    Console.Write("Informe o saldo inicial: ");
-    conta.Saldo = double.Parse(Console.ReadLine());
-
-    Console.Write("Informe nome do Titular: ");
-    conta.Titular.Nome = (Console.ReadLine());
-
-    Console.Write("Informe CPF do Titular: ");
-    conta.Titular.Cpf = (Console.ReadLine());
-
-    Console.Write("Informe Profissão do Titular: ");
-    conta.Titular.Profissao = (Console.ReadLine());
-
-    _listaContas.Add(conta);
-    Console.WriteLine("... Conta cadastrada com sucesso! ...");
-    Console.ReadKey();
-}
-#region 
+#region Exemplos de uso do List
 //Generica<int> teste1 = new Generica<int>();
 //teste1.MostrarMensagem(10);
 
@@ -189,4 +81,6 @@ void CadastrarConta()
 //{
 //    Console.WriteLine($"Indice [{i}] = Conta [{range[i].Conta}]");
 //}
-#endregion
+#endregion 
+
+new ByteBankAtendimento().AtendimentoCliente();
